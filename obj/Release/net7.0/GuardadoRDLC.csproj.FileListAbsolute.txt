@@ -1,0 +1,5 @@
+C:\Users\samue\OneDrive\Escritorio\GuardadoRDLC\obj\Release\net7.0\GuardadoRDLC.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\GuardadoRDLC\obj\Release\net7.0\GuardadoRDLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Escritorio\GuardadoRDLC\obj\Release\net7.0\GuardadoRDLC.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Escritorio\GuardadoRDLC\obj\Release\net7.0\GuardadoRDLC.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Escritorio\GuardadoRDLC\obj\Release\net7.0\GuardadoRDLC.csproj.CoreCompileInputs.cache
